@@ -1,0 +1,15 @@
+
+
+.contanier{
+    width:95%;
+  margin: 0 auto;
+}
+.title{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+}
+.secont{
+    color: green;
+    font-weight: 600;
+}
